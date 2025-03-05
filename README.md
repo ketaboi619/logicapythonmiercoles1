@@ -1,2 +1,2 @@
 # logicapythonmiercoles1
-repaso de lógica de programación 
+app de python listas y diccionarios
